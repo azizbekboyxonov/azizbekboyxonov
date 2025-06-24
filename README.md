@@ -3,9 +3,10 @@
   <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1080&q=80" width="100%" height="220" alt="Hero Banner" style="border-radius:18px;">
 </p>
 
-<!-- 2. GITHUB AVATAR (live) -->
+
+<!-- 2. GITHUB AVATAR (profiledan) -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/148950309?v=4" width="140" alt="GitHub Avatar" style="border-radius: 50%; border: 5px solid #40b8eb;" />
+  <img src="https://avatars.githubusercontent.com/u/148950309?v=4" width="140" alt="Azizbek's Profile" style="border-radius: 50%; border: 5px solid #40b8eb;" />
 </p>
 
 <h1 align="center">👋 Salom, Men Azizbek Boyxonov!</h1>
