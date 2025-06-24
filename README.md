@@ -1,33 +1,16 @@
-<!-- 1. BIG HERO BANNER (unsplash) -->
+<!-- Matrix Background Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1080&q=80" width="100%" height="220" alt="Hero Banner" style="border-radius:18px;">
+  <img src="https://github.com/azizbekboyxonov/azizbekboyxonov/raw/main/573fe7df-3d53-489c-93a3-9ec1536573cf.png" width="100%" alt="Matrix Background" />
 </p>
 
-
-<!-- 2. GITHUB AVATAR (profiledan) -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/193897018?v=4" width="150" alt="Azizbek Photo" style="border-radius: 50%; border: 5px solid #40b8eb;" />
-</p>
-
-
-
-<h1 align="center">👋 Salom, Men Azizbek Boyxonov!</h1>
-<p align="center"><i>Yosh Dasturchi — O‘rganish, Amaliyot va Insoniylik!</i></p>
-
----
-
-<!-- 3. MODERN MOTIVATION (s1mple.uz) -->
-<p align="center">
-  <img src="https://s1mple.uz/api/?text=Mumkin%20emas%20-%20bu%20shunchaki%20fikr." width="100%" alt="Motivation" style="border-radius:12px;">
-</p>
-<p align="center"><b><i>"Impossible is just an opinion."</i></b></p>
-
+<h1 align="center">Azizbek Boyxonov</h1>
+<p align="center"><b>Internetdagi maxsus dunyomga xush kelibsiz</b></p>
 
 ---
 
 ## 👨‍💻 Haqimda qisqacha
 
-- 🔭 Hozir o‘rganayapman: **Python, Web va Mobil Dasturlash**
+- 🏗️ Hozir o‘rganayapman: **Python, Web va Mobil Dasturlash**
 - 🚀 Maqsad: Haqiqiy ilovalar yaratish va texnologiya bilan o‘sish
 - 🌱 Har kuni yangi texnologiyalarni o‘rganaman
 - 💡 Qiziqish: O‘yinlar, algoritmlar va muammolarni yechish
