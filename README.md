@@ -79,8 +79,8 @@
 ## 💬 Aloqa
 
 <p>
-  <a href="mailto:azizbek.boyxonov@gmail.com"><img src="https://img.shields.io/badge/Email-azizbek.boyxonov@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/azizbekboyxonov"><img src="https://img.shields.io/badge/Telegram-@azizbekboyxonov-229ED9?style=flat-square&logo=telegram"></a>
+  <a href="mailto:azizbekboyxonov13092008@gmail.com"><img src="https://img.shields.io/badge/Email-azizbekboyxonov13092008@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/boyxonovv1"><img src="https://img.shields.io/badge/Telegram-@boyxonovv1-229ED9?style=flat-square&logo=telegram"></a>
 </p>
 
 ---
