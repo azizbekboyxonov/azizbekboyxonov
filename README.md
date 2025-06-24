@@ -6,8 +6,9 @@
 
 <!-- 2. GITHUB AVATAR (profiledan) -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/148950309?v=4" width="140" alt="Azizbek's Profile" style="border-radius: 50%; border: 5px solid #40b8eb;" />
+  <img src="https://github.com/azizbekboyxonov/azizbekboyxonov/raw/main/photo_2025-06-23_15-01-23.jpg" width="150" alt="Azizbek Photo" style="border-radius: 50%; border: 5px solid #40b8eb;" />
 </p>
+
 
 <h1 align="center">👋 Salom, Men Azizbek Boyxonov!</h1>
 <p align="center"><i>Yosh Dasturchi — O‘rganish, Amaliyot va Insoniylik!</i></p>
