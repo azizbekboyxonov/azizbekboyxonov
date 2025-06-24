@@ -16,11 +16,12 @@
 
 ---
 
-<!-- 3. MODERN MOTIVATION (unsplash) -->
+<!-- 3. MODERN MOTIVATION (s1mple.uz) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1465101178521-c1a9136a3d41?auto=format&fit=crop&w=800&q=80" width="100%" alt="Motivation" style="border-radius:12px;">
+  <img src="https://s1mple.uz/api/?text=Mumkin%20emas%20-%20bu%20shunchaki%20fikr." width="100%" alt="Motivation" style="border-radius:12px;">
 </p>
 <p align="center"><b><i>"Impossible is just an opinion."</i></b></p>
+
 
 ---
 
