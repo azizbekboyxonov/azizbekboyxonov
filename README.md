@@ -1,6 +1,6 @@
 <!-- Matrix Background Banner -->
 <p align="center">
-  <img src="https://github.com/azizbekboyxonov/azizbekboyxonov/raw/main/573fe7df-3d53-489c-93a3-9ec1536573cf.png" width="100%" alt="Matrix Background" />
+  <img src="https://github.com/azizbekboyxonov/azizbekboyxonov/raw/main/c1d06e19-cd12-41f1-8822-9d2c9d1743b2.png" width="100%" alt="Matrix Background" />
 </p>
 
 <h1 align="center">Azizbek Boyxonov</h1>
